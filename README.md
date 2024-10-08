@@ -1,11 +1,8 @@
 # MonsterHunter-World(모작)
 
-[日本の方はこちらへ](./README.JP.md)
-
-몬스터 헌터 월드 모작 팀프로젝트
-
-
 <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src ="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=white"> <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+[日本の方はこちらへ](./README.JP.md)
 
 * 개발 기간 : 2023.03 - 2023.06
 * 팀원 : 1 서버 프로그래머 + 4 클라이언트 프로그래머
