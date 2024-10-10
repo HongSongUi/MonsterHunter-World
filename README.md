@@ -40,7 +40,7 @@
 |맵|전투 맵|
 |<img width="450" alt="image" src="https://github.com/user-attachments/assets/c54175c1-fe2f-42e1-8a61-bdf2e5c575e1">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/7a7b5239-676a-4085-94fc-aa7c16caa12a">|
 |아이템 및 인벤토리| 칼 궤적 이펙트 |
-|<img width="450" alt="image" src="https://github.com/user-attachments/assets/23d6375e-8e68-4e04-827b-9e1789026b1c"> |<img width="450" alt="image" src="https://github.com/user-attachments/assets/80c65db8-42c5-4326-9318-139ac1359c0c">
+|<img width="450" alt="image" src="https://github.com/user-attachments/assets/23d6375e-8e68-4e04-827b-9e1789026b1c"> |<img width="450" alt="image" src="https://github.com/user-attachments/assets/80c65db8-42c5-4326-9318-139ac1359c0c">|
 |머티리얼 제작| 머티리얼 적용 |
 |<img width="450" alt="image" src="https://github.com/user-attachments/assets/f58af528-d3e0-4277-83a2-6d793699fbb1"> |<img width="450" alt="image" src="https://github.com/user-attachments/assets/0b6e8dd0-08d0-46ea-bec6-722786ff5d29"> | 
 |몬스터 히트 이펙트|포션 이펙트|
