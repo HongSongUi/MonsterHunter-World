@@ -32,7 +32,7 @@
 
 |  |   |
 |---|---|
-|メイン画面|プレーヤー生成|
+|メイン画面|プレイヤー生成|
 |<img width="450" alt="image" src="https://github.com/user-attachments/assets/3dbdcbc9-ecee-4a20-958e-65a5b519aaf6">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/b57a8e4a-4779-4a71-97a8-274626433651">|
 |マップ|戦闘マップ|
 |<img width="450" alt="image" src="https://github.com/user-attachments/assets/c54175c1-fe2f-42e1-8a61-bdf2e5c575e1">|<img width="450" alt="image" src="https://github.com/user-attachments/assets/7a7b5239-676a-4085-94fc-aa7c16caa12a">|
